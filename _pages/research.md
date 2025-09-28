@@ -25,7 +25,7 @@ Our studies are focused on creating functional surfaces for various engineering 
 
 # tribology & surface engineering
 
-Investigation of tribological characteristics to improve the lifespan and efficiency of next-generation internal combustion engine vehicles (NG-ICEVs) by 'lowering wear and friction coefficient in liner–piston interactions'. These NG-ICEVs are fueled with 'carbon-free/neutral fuels (such as ammonia and ethanol)'. Even though there are many studies focusing on the combustion phenomenon or engine performance, there are only a few studies focusing on the effect of tribological pairs when these fuels are used. Due to the differences in chemical properties, in the long run conventional engine components tend to corrode and new coating/materials are needed to be introduced to the automotive sector. In our lab, 'wear–friction–corrosion analyses' are being conducted on an 'ammonia-fueled ICE'.
+Investigation of tribological characteristics to improve the lifespan and efficiency of next-generation internal combustion engine vehicles (NG-ICEVs) by **lowering wear and friction coefficient in liner–piston interactions**. These NG-ICEVs are fueled with 'carbon-free/neutral fuels (such as ammonia and ethanol)'. Even though there are many studies focusing on the combustion phenomenon or engine performance, there are only a few studies focusing on the effect of tribological pairs when these fuels are used. Due to the differences in chemical properties, in the long run conventional engine components tend to corrode and new coating/materials are needed to be introduced to the automotive sector. In our lab, 'wear–friction–corrosion analyses' are being conducted on an 'ammonia-fueled ICE'.
 
 # surface texturing via LST & EDM
 
