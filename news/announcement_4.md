@@ -1,1 +1,0 @@
-Our collaborative work on ceramic coatings have been presented in MyTribos comference on August 20th.

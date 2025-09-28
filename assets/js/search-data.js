@@ -403,7 +403,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-research-group-will-present-three-papers-at-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
+            },},{id: "news-our-collaborative-work-called-tribological-and-biological-performance-evaluation-of-textured-thermal-spray-coated-tio2-zno-have-been-presented-at-the-6th-mytribos-international-symposium-on-august-20th",
+          title: 'Our collaborative work called Tribological and Biological Performance Evaluation of Textured thermal spray...',
+          description: "",
+          section: "News",},{id: "news-our-research-group-will-present-three-papers-at-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
           title: 'Our research group will present three papers at the upcoming LEM21 conference scheduled...',
           description: "",
           section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
