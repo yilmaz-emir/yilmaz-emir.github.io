@@ -403,7 +403,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-collaborative-work-called-tribological-and-biological-performance-evaluation-of-textured-thermal-spray-coated-tio2-zno-have-been-presented-at-the-6th-mytribos-international-symposium-on-august-20th",
+            },},{id: "news-our-group-participated-in-sakura-science-program-hosted-by-jst",
+          title: 'Our group participated in Sakura Science program hosted by JST.',
+          description: "",
+          section: "News",},{id: "news-our-collaborative-work-called-tribological-and-biological-performance-evaluation-of-textured-thermal-spray-coated-tio2-zno-have-been-presented-at-the-6th-mytribos-international-symposium-on-august-20th",
           title: 'Our collaborative work called Tribological and Biological Performance Evaluation of Textured thermal spray...',
           description: "",
           section: "News",},{id: "news-sophia-university-hosted-cm2025-between-september-22-25-2026-i-acted-as-the-local-committee-chair",
