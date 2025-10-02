@@ -403,8 +403,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-group-participated-in-sakura-science-program-hosted-by-jst-lab-tour-green-engineering-was-conducted-by-m2-kuboshima-and-dr-yılmaz",
-          title: 'Our group participated in Sakura Science program hosted by JST. Lab Tour “Green...',
+            },},{id: "news-our-group-participated-in-sakura-science-exchange-program-hosted-by-jst-lab-tour-green-engineering-was-conducted-by-m2-kuboshima-and-dr-yılmaz",
+          title: 'Our group participated in Sakura Science Exchange Program hosted by JST. Lab Tour...',
           description: "",
           section: "News",},{id: "news-our-collaborative-work-called-tribological-and-biological-performance-evaluation-of-textured-thermal-spray-coated-tio2-zno-have-been-presented-at-the-6th-mytribos-international-symposium-on-august-20th",
           title: 'Our collaborative work called Tribological and Biological Performance Evaluation of Textured thermal spray...',
