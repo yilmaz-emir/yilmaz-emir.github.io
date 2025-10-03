@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 ### ・We are actively looking for gradaute students.  
-　　　Feel free to reach out via email. When you do, make sure to add your CV & any additional information needed about your application.  
+　　　Feel free to reach out via email. When you do, make sure to add your CV & any additional information about your interest.  
    　　　Check out the below link for admission information & scholarship opportunities.  
    　　　[Admission Information for International Students](https://www.sophia.ac.jp/eng/admissions-and-aid/)  
 　　　Email: yilmaz(at)sophia.ac.jp  
