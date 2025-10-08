@@ -5,6 +5,7 @@
 @use "sass:color";
 
 $compassionate-claret: #9D2235;
+$urban-navy: #1D2A39;
 
 :root {
   color-scheme: light;
@@ -13,7 +14,7 @@ $compassionate-claret: #9D2235;
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$compassionate-claret};
-  --global-hover-color: #{$compassionate-claret};
+  --global-hover-color: #{$urban-navy};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
