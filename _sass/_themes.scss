@@ -6,10 +6,11 @@
 
 $compassionate-claret: #9D2235;
 $urban-navy: #1D2A39;
+$gray-light: #E6E7E8;
 
 :root {
   color-scheme: light;
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #{$gray-light};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
