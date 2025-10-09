@@ -13,7 +13,7 @@ Materials for each course can be found on <a href="https://moodle.cc.sophia.ac.j
 
 I teach a range of undergraduate and graduate courses, focused mainly on mechanical engineering with some freshmen math & physics — all classes are taught in **Japanese**, unless stated otherwise.
 
-| Code   | Course Title (English) | Japanese Title | Notes |
+| Code   | Course Title | Japanese Title | Remarks |
 |--------|-------------------------|----------------|-------|
 | MTH104 | Basics of Differential Equations | 微分方程式の基礎 | Undergraduate |
 | EAS292 | Engineering & Applied Sciences Lab. II | 機能創造実験・演習II | Undergraduate |
