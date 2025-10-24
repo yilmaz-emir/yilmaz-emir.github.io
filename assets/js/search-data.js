@@ -415,7 +415,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-research-group-will-present-three-papers-at-the-upcoming-lem21-conference-scheduled-for-december-1-4-2025-in-okinawa-japan",
           title: 'Our research group will present three papers at the upcoming LEM21 conference scheduled...',
           description: "",
-          section: "News",},{id: "news-our-group-hosted-a-lab-tour-at-our-techo-center-during-the-visit-of-the-chief-minister-of-arunachal-pradesh-which-is-located-in-the-northeastern-part-of-india",
+          section: "News",},{id: "news-our-group-hosted-a-lab-tour-at-our-techo-center-during-the-visit-of-the-chief-minister-of-arunachal-pradesh-state-which-is-located-in-the-northeastern-part-of-india",
           title: 'Our group hosted a lab tour at our techo center, during the visit...',
           description: "",
           section: "News",},{id: "projects-project-1",
