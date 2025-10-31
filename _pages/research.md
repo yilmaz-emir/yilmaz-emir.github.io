@@ -18,7 +18,7 @@ Email: yilmaz(at)sophia.ac.jp
 また，進学・就職・研究室選びなどでお悩みの方は，ぜひお気軽にご相談ください．  
 E-mail: yilmaz(at)sophia.ac.jp  
 ＊ (at)を@に置き換えてください．  
-<a href="{{ site.baseurl }}/assets/pdf/laboverview_jp.pdf">詳細</a>　
+<a href="{{site.baseurl}}/assets/pdf/laboverview_jp.pdf">詳細</a>　
   
 # themes
 
