@@ -13,7 +13,7 @@ Check out the below link for admission information & scholarship opportunities.
 Email: yilmaz(at)sophia.ac.jp  
 ＊ replace (at) with @ mark.  
   
-### 卒業研配属について　　
+### 卒研配属について　　
 ただいま取り組んでいる研究テーマの詳細については，以下のリンクからご覧いただけます．  
 また，進学・就職・研究室選びなどでお悩みの方は，ぜひお気軽にご相談ください．  
 E-mail: yilmaz(at)sophia.ac.jp  
