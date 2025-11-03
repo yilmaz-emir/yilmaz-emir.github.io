@@ -27,6 +27,7 @@ profiles:
   - align: left
     image: fy23.png
     image_circular: false # crops the image to make it circular
+    content: fy23.md
     more_info: >
        <div style="text-align: center;">
        <p>Group photo for FY23</p>
@@ -34,6 +35,7 @@ profiles:
   - align: right
     image: fy22.png
     image_circular: false # crops the image to make it circular
+    content: fy22.md
     more_info: >
        <div style="text-align: center;">
        <p>Group photo for FY22</p>
