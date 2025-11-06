@@ -2,7 +2,7 @@
 layout: post
 title: 🎊🎉 Acceptance to Applied Thermal Engineering 🎊🎉
 date: 2025-11-06 07:59:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
