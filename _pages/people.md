@@ -15,7 +15,7 @@ profiles:
     content: fy25.md
     more_info: >
        <div style="text-align: center;">
-       <p>FY25 Yilmaz lab. @Izmir Restaurant in Asagaya, Tokyo</p>
+       <p>FY25 Yılmaz lab. @Izmir Restaurant in Asagaya, Tokyo</p>
        </div>
   - align: right
     image: fy24yilmazlab.png
