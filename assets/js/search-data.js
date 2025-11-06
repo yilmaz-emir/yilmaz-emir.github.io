@@ -419,7 +419,7 @@ ninja.data = [{
           title: 'Our group hosted a lab tour at our techo center, during the visit...',
           description: "",
           section: "News",},{id: "news-our-paper-titled-influence-of-pre-chamber-nozzle-and-main-chamber-geometry-on-ammonia-combustion-a-combined-experimental-and-predictive-study-got-accepted-to-be-published-in-applied-thermal-engineering-a-q1-journal",
-          title: 'Our paper titled, Influence of Pre-Chamber Nozzle and Main Chamber Geometry on Ammonia...',
+          title: '🎊🎉 Our paper titled, Influence of Pre-Chamber Nozzle and Main Chamber Geometry on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
