@@ -418,12 +418,10 @@ ninja.data = [{
           section: "News",},{id: "news-our-group-hosted-a-lab-tour-at-our-techo-center-during-the-visit-of-the-chief-minister-of-arunachal-pradesh-state-which-is-located-in-the-northeastern-part-of-india",
           title: 'Our group hosted a lab tour at our techo center, during the visit...',
           description: "",
-          section: "News",},{id: "news-acceptance-to-applied-thermal-engineering",
-          title: '🎊🎉 Acceptance to Applied Thermal Engineering 🎊🎉',
+          section: "News",},{id: "news-from-our-collaborative-work-with-thermal-engineering-lab-a-paper-titled-influence-of-pre-chamber-nozzle-and-main-chamber-geometry-on-ammonia-combustion-a-combined-experimental-and-predictive-study-got-accepted-to-be-published-in-applied-thermal-engineering-a-q1-journal",
+          title: 'From our collaborative work with Thermal Engineering Lab., a paper titled, Influence of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
