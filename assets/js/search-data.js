@@ -418,8 +418,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-group-hosted-a-lab-tour-at-our-techo-center-during-the-visit-of-the-chief-minister-of-arunachal-pradesh-state-which-is-located-in-the-northeastern-part-of-india",
           title: 'Our group hosted a lab tour at our techo center, during the visit...',
           description: "",
-          section: "News",},{id: "news-acceptance-in-applied-thermal-engineering",
-          title: 'Acceptance in Applied Thermal Engineering',
+          section: "News",},{id: "news-our-latest-paper-has-been-accepted-for-publication-in-applied-thermal-engineering",
+          title: 'Our latest paper has been accepted for publication in Applied Thermal Engineering 🎉...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
