@@ -17,7 +17,7 @@ profiles:
        <div style="text-align: center;">
        <p>FY25 Yılmaz lab. @Izmir Restaurant in Asagaya, Tokyo</p>
        </div>
-  - align: right
+  - align: middle
     image: fy24yilmazlab.png
     image_circular: false # crops the image to make it circular
     more_info: >
