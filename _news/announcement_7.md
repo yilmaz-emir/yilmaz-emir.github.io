@@ -1,33 +1,15 @@
 ---
 layout: post
-title: Acceptance in Applied Thermal Engineering 
+title: Our latest paper has been accepted for publication in Applied Thermal Engineering 🎉 
 date: 2025-11-05 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Excited to share that our paper on machine learning-assisted ammonia engine combustion has been accepted in a Q1 journal!
+This work bridges experiments and AI to optimize pre-chamber design for cleaner combustion.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Abstract: Transportation contributes significantly to global CO₂ emissions (24% of energy-related emissions), necessitating carbon-free energy solutions for net-zero goals. However, hydrogen (H2) is a promising candidate, its storage and transportation challenges persist. ammonia (NH3), a carbon-free alternative, faces limitations such as low burning velocity and narrow flammability, requiring further optimization. This study combines experimental and machine learning (ML) approaches. Stage-I experimentally investigates the impact of pre-combustion chamber (PCC) on four different nozzle geometries and slit/non-slit configurations on combustion at varying equivalence ratios. Stage-I is further divided into two categories Case-I and Case-II. In Case-I, nozzle bodies without slits were compared, with the 10.03 diameter achieving the highest combustion pressure (1.31 MPa at ER 0.8). In Case-II, the similar diameter was investigated with/without slits, showing a 14% performance improvement with slits. Stage-II employs Random Forest (RF), Artificial Neural Network (ANN), and Deep Neural Network (DNN) models to predict the heat release rate (HRR). Since, RF illustrates low error among experimental values, and it acts as a benchmark for further predicting error of evaluated by ANN and DNN at hidden ER. Root Mean Square Error (RMSE) and R² (coefficient of determination) for ANN and DNN have been illustrated with values of 23.10, 0.87 and 45.24, 0.51 respectively. Since ML values provides better fitment with experimental data, future studies may prioritize ML models, cutting down on expensive experiments and time consumption.
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
