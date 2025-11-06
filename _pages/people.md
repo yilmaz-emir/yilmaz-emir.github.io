@@ -22,7 +22,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
        <div style="text-align: center;">
-       <p>Graduation of FY24 Yilmaz lab.</p>
+       <p>Graduation of FY24 Yılmaz lab.</p>
        </div>
   - align: right
     image: fy24.jpg
