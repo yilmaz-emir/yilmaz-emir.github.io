@@ -423,8 +423,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
-            },},{id: "news-our-collaborative-application-to-the-jst-india-lotus-programme-has-been-accepted",
-          title: 'our collaborative application to the JST–India LOTUS Programme has been accepted! 🎉',
+            },},{id: "news-jst-india-lotus-programme-application-has-been-accepted",
+          title: 'JST–India LOTUS Programme application has been accepted! 🎉',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
