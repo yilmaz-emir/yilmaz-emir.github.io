@@ -10,6 +10,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: fy25_groupphoto.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+       <div style="text-align: center;">
+       <p>Group photo for FY25</p>
+       </div>
+  - align: right
     image: fy25_yilmazlab_izmir.jpg
     image_circular: false # crops the image to make it circular
     content: fy25.md
@@ -17,7 +24,7 @@ profiles:
        <div style="text-align: center;">
        <p>FY25 Yılmaz lab. @Izmir Restaurant in Asagaya, Tokyo</p>
        </div>
-  - align: middle
+  - align: right
     image: fy24yilmazlab.png
     image_circular: false # crops the image to make it circular
     more_info: >
