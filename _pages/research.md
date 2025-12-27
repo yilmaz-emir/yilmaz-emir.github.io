@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research & 卒研配属/
+permalink: /research/
 title: research
 nav: true
 nav_order: 3
@@ -18,8 +18,8 @@ Email: yilmaz(at)sophia.ac.jp
 また，進学・就職・研究室選びなどでお悩みの方は，ぜひお気軽にご相談ください．  
 E-mail: yilmaz(at)sophia.ac.jp  
 ＊ (at)を@に置き換えてください．  
-<a href="{{ site.baseurl }}/assets/pdf/yilmazlab_jp.pdf">研究室紹介</a>  
-<a href="{{ site.baseurl }}/assets/pdf/FY25_labintro.pdf">詳細スライド</a>  
+<a href="{{ site.baseurl }}/assets/pdf/yilmazlab_jp.pdf">研究室小冊子</a>  
+<a href="{{ site.baseurl }}/assets/pdf/FY25_labintro.pdf">研究室紹介</a>  
   
 # themes
 
