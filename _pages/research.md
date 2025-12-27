@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research &　卒研配属
+title: research & 卒研配属
 nav: true
 nav_order: 3
 ---
