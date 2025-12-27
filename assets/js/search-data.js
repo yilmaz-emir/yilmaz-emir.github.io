@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/research%20&%20%E5%8D%92%E7%A0%94%E9%85%8D%E5%B1%9E/";
           },
         },{id: "nav-teaching",
           title: "teaching",
