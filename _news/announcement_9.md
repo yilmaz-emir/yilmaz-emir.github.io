@@ -6,6 +6,5 @@ inline: false
 related_posts: false
 ---
 
-Our paper got accepted to be published in <a href="https://www.tandfonline.com/journals/ueht20/about-this-journal">Experimental Heat Transfer</a> journal!  
+Excited to share that our collaborative <a href="https://www.jst.go.jp/program/india/project/2025.html">application to the JST–India LOTUS Programme</a> has been accepted. Under the leadership of <a href="https://fst.sophia.ac.jp/en/faculty/mitsuhisa-ichiyanagi">Professor Ichiyanagi</a> and <a href="https://chemical.iitd.ac.in/faculty/abhijeet-raj/">Professor Raj</a>, this project will integrate experimental and numerical studies to investigate how oxygen-containing and carbon-free additives affect the formation of polycyclic aromatic hydrocarbons (PAHs), soot, and NOx during the combustion of conventional (gasoline) & unconvetional (ammonia) fuels, contributing to cleaner combustion strategies.
 
-The study presents a comparative experimental investigation of subcooled flow boiling heat transfer and bubble dynamics on a bottom-heated aluminum surface using distilled water, ethylene glycol solution, and long-life coolant. The work provides new insights into fluid-dependent boiling behavior, bubble motion, and long-term surface effects relevant to advanced thermal management systems.
