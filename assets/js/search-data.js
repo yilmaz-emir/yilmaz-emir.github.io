@@ -428,12 +428,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
-            },},{id: "news-first-paper-acceptance-of-2026",
-          title: 'First paper acceptance of 2026! 🎉',
+            },},{id: "news-great-news-to-kick-off-2026-our-paper-on-subcooled-flow-boiling-heat-transfer-and-bubble-dynamics-is-officially-accepted-in-experimental-heat-transfer",
+          title: 'Great news to kick off 2026: our paper on subcooled flow boiling heat...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_9/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
