@@ -428,6 +428,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-first-paper-acceptance-of-2026",
+          title: 'First paper acceptance of 2026! 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
