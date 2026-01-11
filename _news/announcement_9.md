@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Great news to kick off 2026: our paper on subcooled flow boiling heat transfer and bubble dynamics is officially accepted in <a href="https://www.tandfonline.com/journals/ueht20/about-this-journal">Experimental Heat Transfer</a> ! 🚀📄
+Great news to kick off 2026: our <a href="http://dx.doi.org/10.1080/08916152.2026.2615768">paper</a> on subcooled flow boiling heat transfer and bubble dynamics is officially accepted in <a href="https://www.tandfonline.com/journals/ueht20/about-this-journal">Experimental Heat Transfer</a> ! 🚀📄
