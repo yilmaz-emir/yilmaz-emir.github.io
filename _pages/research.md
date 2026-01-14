@@ -19,7 +19,7 @@ Email: yilmaz(at)sophia.ac.jp
 E-mail: yilmaz(at)sophia.ac.jp  
 ＊ (at)を@に置き換えてください．  
 <a href="{{ site.baseurl }}/assets/pdf/yilmazlab_jp.pdf">研究室小冊子</a>  
-<a href="{{ site.baseurl }}/assets/pdf/FY25_labintro.pdf">研究室紹介</a>  
+<a href="{{ site.baseurl }}/assets/pdf/FY26_labintro.pdf">研究室紹介</a>  
   
 # themes
 
