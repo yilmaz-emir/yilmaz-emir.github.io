@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research & 卒研配属
+title: research
 nav: true
 nav_order: 3
 ---
@@ -14,13 +14,11 @@ Email: yilmaz(at)sophia.ac.jp
 ＊ replace (at) with @ mark  
   
 ### 卒研配属について　　
-ただいま取り組んでいる研究テーマの詳細については，以下のリンクからご覧いただけます．  
-また，進学・就職・研究室選びなどでお悩みの方は，ぜひお気軽にご相談ください．  
+ただいま取り組んでいる研究テーマについて詳しく知りたい方は，お気軽にメールでご連絡ください。  
 E-mail: yilmaz(at)sophia.ac.jp  
 ＊ (at)を@に置き換えてください．  
 <a href="{{ site.baseurl }}/assets/pdf/yilmazlab_jp.pdf">研究室小冊子</a>  
-<a href="{{ site.baseurl }}/assets/pdf/FY26_labintro.pdf">研究室紹介</a>  
-  
+<!-- <a href="{{ site.baseurl }}/assets/pdf/FY26_labintro.pdf">研究室紹介</a>  -->  
 # themes
 
 Our studies are focused on creating functional surfaces for various engineering applications – from nucleate boiling to tribology. On-going projects are listed below:
