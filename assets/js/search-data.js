@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-research-amp-卒研配属",
-          title: "research &amp; 卒研配属",
+        },{id: "nav-research",
+          title: "research",
           description: "",
           section: "Navigation",
           handler: () => {
