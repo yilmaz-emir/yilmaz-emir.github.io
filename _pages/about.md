@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Anatolian. Assistant Professor @PERG, <a href="https://fst.sophia.ac.jp/en/department/eas/">EAS</a>, <a href="https://www.sophia.ac.jp/eng/">Sophia University</a>. Alumnus of <a href="https://www.sabanciuniv.edu/en">Sabanci University</a>. 
+subtitle: Anatolian. Assistant Professor @PERG, <a href="https://fst.sophia.ac.jp/en/department/eas/">EAS</a>, <a href="https://www.sophia.ac.jp/eng/">Sophia University</a>. Alumnus of <a href="https://www.sabanciuniv.edu/en">Sabanci University</a>. <a href="https://podcasts.apple.com/jp/podcast/91-kocaelispor/id1688385376?i=1000730453733&l=en-US">Kocaelispor</a> fan!
 # for reference to hihgligh shit: <a href='#'>Affiliations</a>. <br> to break the line and go down '...' to highlight
 
 profile:
