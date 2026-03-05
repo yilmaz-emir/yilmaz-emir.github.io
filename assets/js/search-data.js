@@ -432,7 +432,7 @@ ninja.data = [{
           title: 'Great news to kick off 2026: our paper on subcooled flow boiling heat...',
           description: "",
           section: "News",},{id: "news-we-hosted-prof-akbulut-from-sabanci-university",
-          title: 'We hosted Prof Akbulut from Sabanci University 🎉',
+          title: 'We hosted Prof. Akbulut from Sabanci University',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
