@@ -431,7 +431,12 @@ ninja.data = [{
             },},{id: "news-great-news-to-kick-off-2026-our-paper-on-subcooled-flow-boiling-heat-transfer-and-bubble-dynamics-is-officially-accepted-in-experimental-heat-transfer",
           title: 'Great news to kick off 2026: our paper on subcooled flow boiling heat...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-we-hosted-prof-akbulut-from-sabanci-university",
+          title: 'We hosted Prof Akbulut from Sabanci University 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
