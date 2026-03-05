@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We hosted Prof Akbulut from Sabanci University 🎉 
+title: We hosted Prof. Akbulut from Sabanci University 
 date: 2026-03-02 16:11:00-0400
 inline: false
 related_posts: false
