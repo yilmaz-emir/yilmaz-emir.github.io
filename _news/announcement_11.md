@@ -6,4 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Excited to share that our collaborative <a href="https://www.jst.go.jp/program/india/project/2025.html">application to the JST–India LOTUS Programme</a> has been accepted. Under the leadership of <a href="https://fst.sophia.ac.jp/en/faculty/mitsuhisa-ichiyanagi">Professor Ichiyanagi</a> and <a href="https://chemical.iitd.ac.in/faculty/abhijeet-raj/">Professor Raj</a>, this project will integrate experimental and numerical studies to investigate how oxygen-containing and carbon-free additives affect the formation of polycyclic aromatic hydrocarbons (PAHs), soot, and NOx during the combustion of conventional (gasoline) & unconvetional (ammonia) fuels, contributing to cleaner combustion strategies.
+On March 12, our research group attended <a href="https://www.jsae.net/kanto_more/icatye/eng/index.html">2025-2026 JSAE KANTO-International Conference of Automotive Technology for Young Engineers (ICATYE)</a> at Tokyo City University - Setagaya Campus.  
+A total of six student presentations were delivered, including presentations from the Thermal Engineering Lab in EAS, Sophia University.  
+From PERG, Mr. Ning (M2) presented his work titled as “A Comparative Study on the Tribological Behavior of an ICE Piston Ring in Fresh and Ammonia-Dispersed Engine Oil.”
