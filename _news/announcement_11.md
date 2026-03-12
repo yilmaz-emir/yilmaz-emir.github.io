@@ -7,5 +7,5 @@ related_posts: false
 ---
 
 On March 12, our research group attended <a href="https://www.jsae.net/kanto_more/icatye/eng/index.html">2025-2026 JSAE KANTO-International Conference of Automotive Technology for Young Engineers (ICATYE)</a> at Tokyo City University - Setagaya Campus.  
-A total of six student presentations were delivered, including presentations by students from the Thermal Engineering Lab in EAS, Sophia University.  
+A total of six student presentations were delivered, including presentations from the Thermal Engineering Lab in EAS, Sophia University.  
 From PERG, Mr. Ning (M2) presented his work titled as “A Comparative Study on the Tribological Behavior of an ICE Piston Ring in Fresh and Ammonia-Dispersed Engine Oil.”
