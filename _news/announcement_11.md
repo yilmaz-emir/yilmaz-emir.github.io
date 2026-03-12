@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six presentations at ICATYE 2025-2026! 
-date: 2026-03-12 16:11:00-0400
+date: 2026-03-12 00:11:00-0400
 inline: false
 related_posts: false
 ---
