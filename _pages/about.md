@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Anatolian. Assistant Professor @PERG, <a href="https://fst.sophia.ac.jp/en/department/eas/">EAS</a>, <a href="https://www.sophia.ac.jp/eng/">Sophia University</a>. Alumnus of <a href="https://www.sabanciuniv.edu/en">Sabanci University</a>. 
+subtitle: Anatolian. Associate Professor @PERG, <a href="https://fst.sophia.ac.jp/en/department/eas/">EAS</a>, <a href="https://www.sophia.ac.jp/eng/">Sophia University</a>. Alumnus of <a href="https://www.sabanciuniv.edu/en">Sabanci University</a>. 
 # for reference to hihgligh shit: <a href='#'>Affiliations</a>. <br> to break the line and go down '...' to highlight
 
 profile:
