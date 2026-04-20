@@ -436,16 +436,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
-            },},{id: "news-outstanding-research-poster-award-jspe-2026-spring-conference",
-          title: 'Outstanding Research Poster Award @JSPE 2026 Spring Conference',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_12/";
             },},{id: "news-six-presentations-at-icatye-2025-2026",
           title: 'Six presentations at ICATYE 2025-2026!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
+            },},{id: "news-outstanding-research-poster-award-jspe-2026-spring-conference",
+          title: 'Outstanding Research Poster Award @JSPE 2026 Spring Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
