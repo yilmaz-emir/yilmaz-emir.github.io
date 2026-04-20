@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outstanding Research Poster Award @JSPE 2026 Spring Conference
-date: 2026-03-02 16:11:00-0400
+date: 2026-04-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
