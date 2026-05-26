@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oral presentation at the 51st Leeds-Lyon Sympoisum on Tribology
+title: Acceptance! Oral presentation at the 51st Leeds-Lyon Sympoisum on Tribology
 date: 2026-05-18 16:11:00-0400
 inline: false
 related_posts: false
