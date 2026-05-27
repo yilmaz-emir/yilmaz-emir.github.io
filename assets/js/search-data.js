@@ -436,6 +436,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-new-members-of-yilmaz-lab",
+          title: 'New members of Yilmaz Lab!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
             },},{id: "news-six-presentations-at-icatye-2025-2026",
           title: 'Six presentations at ICATYE 2025-2026!',
           description: "",
