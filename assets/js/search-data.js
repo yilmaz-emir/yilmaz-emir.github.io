@@ -446,11 +446,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
-            },},{id: "news-acceptance-oral-presentation-at-the-51st-leeds-lyon-sympoisum-on-tribology",
-          title: 'Acceptance! Oral presentation at the 51st Leeds-Lyon Sympoisum on Tribology 🎉',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_13/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
