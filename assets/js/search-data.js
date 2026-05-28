@@ -441,16 +441,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
-            },},{id: "news-outstanding-research-poster-award-jspe-2026-spring-conference",
-          title: 'Outstanding Research Poster Award @JSPE 2026 Spring Conference',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_12/";
             },},{id: "news-new-members-of-yilmaz-lab",
           title: 'New members of Yilmaz Lab!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_13/";
+            },},{id: "news-outstanding-research-poster-award-jspe-2026-spring-conference",
+          title: 'Outstanding Research Poster Award @JSPE 2026 Spring Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
