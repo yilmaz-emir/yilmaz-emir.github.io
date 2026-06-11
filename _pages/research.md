@@ -12,7 +12,8 @@ Check out the below link for admission information & scholarship opportunities.
 [Admission Information for International Students](https://www.sophia.ac.jp/eng/admissions-and-aid/)  
 Email: yilmaz(at)sophia.ac.jp  
 ＊ replace (at) with @ mark  
-  
+<a href="{{ site.baseurl }}/assets/pdf/GE_yilmaz_jp.pdf">Laboratory Research Introduction Flyer</a>  
+
 ### 卒研配属について　　
 ただいま取り組んでいる研究テーマについて詳しく知りたい方は，お気軽にメールでご連絡ください。  
 E-mail: yilmaz(at)sophia.ac.jp  
