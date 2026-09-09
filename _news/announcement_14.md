@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentation at Leeds-Lyon and new paper accepted in Wear!
-date: 2026-09-09 16:11:00-0400
+date: 2026-09-07 00:11:00-0400
 inline: false
 related_posts: false
 ---
