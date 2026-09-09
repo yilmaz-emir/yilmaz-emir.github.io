@@ -455,7 +455,7 @@ ninja.data = [{
           title: 'Presentation at Leeds-Lyon and new paper accepted in Wear!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcements14/";
+              window.location.href = "/news/announcement_14/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
