@@ -451,6 +451,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
+            },},{id: "news-presentation-at-leeds-lyon-and-new-paper-accepted-in-wear",
+          title: 'Presentation at Leeds-Lyon and new paper accepted in Wear!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcements14/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
