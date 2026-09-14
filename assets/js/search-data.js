@@ -523,13 +523,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=R2D30vAAAAAJ", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/eyilma41", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
