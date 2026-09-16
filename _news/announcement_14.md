@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Presentation at Leeds-Lyon and new paper accepted in Wear!
-date: 2026-09-07 00:11:00-0400
+title: Oral presentation at the 51st Leeds-Lyon Sympoisum on Tribology
+date: 2026-09-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Our ammonia engine tribology research was presented at the 51st Leeds-Lyon Symposium on Tribology in Lyon, France. 
-The related paper, “Ammonia-induced tribofilm instability and friction-wear decoupling in zinc phosphate coated piston rings,” has also been accepted for publication in  <a href="https://www.sciencedirect.com/journal/wear">Wear</a> and is now available  <a href="https://doi.org/10.1016/j.wear.2026.207037">online</a>.
+Dr. Yilmaz presented the collaborative research titled **“Ammonia-induced tribofilm instability and friction-wear decoupling in piston ring contacts”** at the 51st Leeds-Lyon Symposium on Tribology, in Lyon, France, from September 2 to 4, 2026.
+
+{% include figure.liquid path="assets/pdf/LL2026_Abstract_final.pdf" class="img-fluid rounded z-depth-1" %}
