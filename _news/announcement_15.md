@@ -6,7 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Our collaborative work titled **“Ammonia-induced tribofilm instability and friction-wear decoupling in zinc phosphates coated piston rings”** in Wear, which is a Q1 journal in the field of tribology.
+Our collaborative work titled **“Ammonia-induced tribofilm instability and friction-wear decoupling in zinc phosphates coated piston rings”** in <a href="https://www.sciencedirect.com/journal/wear">Wear</a>, which is a Q1 journal in the field of tribology.
 
-{% include figure.liquid path="assets/pdf/LL2026_Abstract_final.pdf" class="img-fluid rounded z-depth-1" %}
-
+Click <a href="10.1016/j.wear.2026.207037">here</a> to access the paper.
