@@ -456,6 +456,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_14/";
+            },},{id: "news-acceptance-paper-published-in-wear",
+          title: 'Acceptance! paper published in Wear🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_15/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
