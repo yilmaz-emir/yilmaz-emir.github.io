@@ -7,7 +7,7 @@ subtitle: Anatolian. Associate Professor @PERG, <a href="https://fst.sophia.ac.j
 
 profile:
   align: right
-  image: profpic.jpg
+  image: profpic.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>Krupp Hall, Room 327</p>
