@@ -21,7 +21,7 @@ I teach a range of undergraduate and graduate courses, focused mainly on mechani
 | EAS292 | Engineering & Applied Sciences Lab. II | 機能創造実験・演習II | Undergraduate |
 | MEC211 | Basics of Mechanical System Design | 機械システム設計の基礎 | Undergraduate・Until FY25-Spring |
 | MEC212 | Special Topics on Mechanical Engineering | 機械工学輪講 | Undergraduate |
-| MEC213 | Applied Mechanics | – | *Taught in English* |
+| MEC213 | Applied Mechanics |  – | Undergraduate・FY26-Spring (*in English*) |
 | MEC293 | Mechanical System Design Exercise I | 機械システム設計演習I | Undergraduate・Since FY25-Autumn |
 | MEC361 | Machine Design | 設計工学 | Undergraduate |
 | MEC514 | Fundamentals of Tribology | – | *Graduate / in English* |
