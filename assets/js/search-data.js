@@ -461,6 +461,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
+            },},{id: "news-paper-accepted-in-ceramics-international",
+          title: 'Paper accepted in Ceramics International 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_16/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
