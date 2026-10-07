@@ -547,6 +547,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/emir-yilmaz-4107", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://researchmap.jp/yilmaz", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
