@@ -109,6 +109,9 @@
           <img
             src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
             alt="{{ social[1].title }}"
+            {% if social[1].title == 'Researchmap' %}
+               style="width: 90px; height: 90px; object-fit: contain; vertical-align: middle;"
+            {% endif %}
           >
         {% endif %}
       </a>
