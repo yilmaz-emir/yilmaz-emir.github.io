@@ -466,6 +466,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_16/";
+            },},{id: "news-researcher-profile-featured-on-aist-zem-consortium-website",
+          title: 'Researcher Profile Featured on AIST ZEM Consortium Website',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_17/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
