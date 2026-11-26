@@ -22,7 +22,7 @@ The research investigates the effects of methyl benzoate blending on soot format
 
 **Title:** *Effect of Nozzle Geometry on the Combustion Characteristics of Ammonia/Oxygen in a Constant-Volume Combustion Chamber with a Pre-Chamber Configuration*
 
-This publication builds upon research presented at the **10th International Hydrogen Technologies Congress (IHTEC-2026)**, held on May 10–13, 2026, in Istanbul, Türkiye.
+This publication builds upon research presented at the **10th International Hydrogen Technologies Congress (IHTEC-2026)**, held on May 10-13, 2026, in Istanbul, Türkiye.
 
 The study examines the influence of pre-chamber nozzle size and configuration on ammonia/oxygen combustion characteristics in a constant-volume combustion chamber, contributing to the advancement of ammonia-based combustion technologies.
 
