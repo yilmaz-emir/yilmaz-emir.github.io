@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two New Journal Papers Accepted for Publication! 🎉"
+title: "Two New Papers Accepted in Q1 Journals! 🎉🎉"
 date: 2026-11-25 00:20:00 +0900
 inline: false
 related_posts: false
