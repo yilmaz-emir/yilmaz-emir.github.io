@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Two new papers got accepted in Q1 journals!!"
-date: 2026-11-23 00:20:00+0900
+title: "Researcher Profile Featured on AIST ZEM Consortium Websites"
+date: 2026-10-23 00:20:00+0900
 inline: false
 related_posts: false
 ---
