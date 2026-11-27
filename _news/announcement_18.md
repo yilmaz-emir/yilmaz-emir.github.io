@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two New Papers Accepted in Q1 Journals! 🎉🎉"
-date: 2026-10-26 00:20:00+0900
+date: 2026-11-26 00:20:00+0900
 inline: false
 related_posts: false
 ---
