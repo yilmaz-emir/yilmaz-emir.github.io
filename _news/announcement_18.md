@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Two New Papers Accepted in Q1 Journals! 🎉🎉"
-date: 2026-11-25 00:20:00 +0900
+date: 2026-10-26 00:20:00+0900
 inline: false
 related_posts: false
 ---
+
 
 We are pleased to announce that two research articles have been accepted for publication in *Fuel* and the *International Journal of Hydrogen Energy*.
 
