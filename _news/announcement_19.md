@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researcher Profile Featured on AIST ZEM Consortium Websitess"
-date: 2026-11-23 00:20:00+0900
+date: 2026-11-23 00:11:00-0400
 inline: false
 related_posts: false
 ---
